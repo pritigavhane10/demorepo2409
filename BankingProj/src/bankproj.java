@@ -94,8 +94,9 @@ public class bankproj {
 				break;
 		}
 		
-	//	sc.close();
 		
 	}while(option!=5);
+	sc.close();
+
 }
 }
